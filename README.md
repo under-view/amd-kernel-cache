@@ -1,2 +1,3 @@
-# tiny-linux-kconfigs
-Kconfig symbols required to boot a tiny linux kernel
+# amd-kernel-cache
+
+Kernel metadata (kmeta) for AMD machines Underview supports.
