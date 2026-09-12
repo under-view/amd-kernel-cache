@@ -1,4 +1,4 @@
 define KFEATURE_DESCRIPTION "VM sockets Kconfig series"
 
-kconf non-hardware cfg/virtio.cfg
-kconf non-hardware cfg/virtio-vsock.cfg
+kconf non-hardware linux-6.12/cfg/virtio.cfg
+kconf non-hardware linux-6.12/cfg/virtio-vsock.cfg

@@ -1,4 +1,4 @@
 define KFEATURE_DESCRIPTION "Disk Kconfig series"
 
-kconf non-hardware cfg/disk.cfg
-kconf non-hardware cfg/filesystem.cfg
+kconf non-hardware linux-6.12/cfg/disk.cfg
+kconf non-hardware linux-6.12/cfg/filesystem.cfg
