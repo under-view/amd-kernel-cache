@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "Linux Console Kconfig series"
+
+kconf non-hardware cfg/console.cfg

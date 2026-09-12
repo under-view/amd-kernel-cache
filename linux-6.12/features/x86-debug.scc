@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "X86 Debug Kconfig series"
+
+kconf non-hardware cfg/acpi-debug.cfg

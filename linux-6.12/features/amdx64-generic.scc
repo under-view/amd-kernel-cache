@@ -1,0 +1,7 @@
+define KFEATURE_DESCRIPTION "amdx64 generic Kconfig series"
+
+kconf hardware cfg/x86_64/arch.cfg
+kconf hardware cfg/efi.cfg
+
+kconf non-hardware cfg/generic.cfg
+kconf non-hardware cfg/pci.cfg

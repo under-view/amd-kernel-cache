@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "Linux Systemd Kconfig series"
+
+kconf non-hardware cfg/systemd.cfg

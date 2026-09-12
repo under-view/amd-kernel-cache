@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "amdx64 Graphics Kconfig series"
+
+kconf hardware cfg/graphics.cfg
