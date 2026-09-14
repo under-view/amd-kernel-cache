@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Network Filesystem"
+
+kconf non-hardware linux-6.12/cfg/network.cfg
+kconf non-hardware linux-6.12/cfg/nfs.cfg
