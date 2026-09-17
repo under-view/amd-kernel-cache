@@ -1,3 +1,4 @@
 define KFEATURE_DESCRIPTION "amdx64 Graphics Kconfig series"
 
 kconf hardware linux-6.12/cfg/graphics.cfg
+kconf hardware linux-6.12/cfg/amd-graphics.cfg
