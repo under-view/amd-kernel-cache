@@ -2,6 +2,7 @@ define KFEATURE_DESCRIPTION "amdx64 generic Kconfig series"
 
 kconf hardware linux-6.12/cfg/x86_64/arch.cfg
 kconf hardware linux-6.12/cfg/efi.cfg
+kconf hardware linux-6.12/cfg/amd-core.cfg
 
 kconf non-hardware linux-6.12/cfg/generic.cfg
 kconf non-hardware linux-6.12/cfg/pci.cfg
