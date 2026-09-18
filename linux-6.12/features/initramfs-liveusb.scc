@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Linux Initramfs Liveusb Kconfig series"
+
+kconf non-hardware linux-6.12/cfg/initrd.cfg
+kconf non-hardware linux-6.12/cfg/liveusb.cfg
