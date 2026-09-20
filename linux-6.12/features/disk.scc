@@ -3,3 +3,4 @@ define KFEATURE_DESCRIPTION "Disk Kconfig series"
 kconf non-hardware linux-6.12/cfg/disk.cfg
 kconf non-hardware linux-6.12/cfg/ext.cfg
 kconf non-hardware linux-6.12/cfg/fat.cfg
+kconf non-hardware linux-6.12/cfg/virtual-filesystem.cfg
