@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "VM sockets Kconfig series"
+
+kconf non-hardware linux-6.12/cfg/virtio.cfg
